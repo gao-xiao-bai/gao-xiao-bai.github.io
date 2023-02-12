@@ -39,7 +39,7 @@ Towards Generalizable and Robust Text-to-SQL Parsing
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2022</div><img src='images/Yingxiu.png' height="100%" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2022</div><img src='images/Yingxiu.png' width="100%" height="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Prompt Conditioned VAE: Enhancing Generative Replay for Lifelong Learning in Task-Oriented Dialogue
@@ -50,7 +50,7 @@ Yingxiu Zhao, Yinhe Zheng, Zhiliang Tian, **Chang Gao**, Jian Sun, Nevin L. Zhan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022</div><img src='images/UniGDD.png' height="100%" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022</div><img src='images/UniGDD.png' width="100%" height="100%" ></div></div>
 <div class='paper-box-text' markdown="1">
 
 UniGDD: A Unified Generative Framework for Goal-Oriented Document-Grounded Dialogue
@@ -61,7 +61,7 @@ UniGDD: A Unified Generative Framework for Goal-Oriented Document-Grounded Dialo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECIR 2022</div><img src='images/GACS.png' height="100%" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECIR 2022</div><img src='images/GACS.png' width="100%" height="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Search Clarification Selection via Query-Intent-Clarification Graph Attention
@@ -72,7 +72,7 @@ Search Clarification Selection via Query-Intent-Clarification Graph Attention
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2020</div><img src='images/Rotate3D.jpg' height="70%" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2020</div><img src='images/Rotate3D.png' width="100%" height="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Rotate3D: Representing Relations as Rotations in Three-Dimensional Space for Knowledge Graph Embedding
@@ -81,7 +81,7 @@ Rotate3D: Representing Relations as Rotations in Three-Dimensional Space for Kno
 
 
 
-[Paper](https://www.researchgate.net/publication/364165129_Search_Clarification_Selection_via_Query-Intent-Clarification_Graph_Attention)
+[Paper](https://www.researchgate.net/publication/364165129_Search_Clarification_Selection_via_Query-Intent-Clarification_Graph_Attention) [Code](https://github.com/gao-xiao-bai/Rotate3D)
 </div>
 </div>
 
