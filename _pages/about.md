@@ -19,7 +19,7 @@ redirect_from:
 
 I am a third-year PhD at [CUHK text mining group](https://www1.se.cuhk.edu.hk/~textmine/), supervised by Prof. Lam Wai. Prior to this, I obtained my master degree at Harbin Institute of Technology.
 
-My research interest includes natural language processing and information retrieval, especially language models, information extraction, and covnersational systems. 
+My research interest includes natural language processing and information retrieval, especially language models, semantic parsing, and covnersational systems. 
 
 
 <!-- # 🔥 News
@@ -36,9 +36,52 @@ Towards Generalizable and Robust Text-to-SQL Parsing
 **Chang Gao**, Bowen Li, Wenxuan Zhang, Wai Lam, Binhua Li, Fei Huang, Luo Si, Yongbin Li
 
 [Paper](https://aclanthology.org/2022.findings-emnlp.155/) [Code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/tkk)
-<!-- 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2022</div><img src='images/Yingxiu.png' height="100%" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Prompt Conditioned VAE: Enhancing Generative Replay for Lifelong Learning in Task-Oriented Dialogue
+
+Yingxiu Zhao, Yinhe Zheng, Zhiliang Tian, **Chang Gao**, Jian Sun, Nevin L. Zhang
+
+[Paper](https://aclanthology.org/2022.emnlp-main.766/) [Code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/pcll)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022</div><img src='images/UniGDD.png' height="100%" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+UniGDD: A Unified Generative Framework for Goal-Oriented Document-Grounded Dialogue
+
+**Chang Gao**, Wenxuan Zhang, Wai Lam
+
+[Paper](https://aclanthology.org/2022.acl-short.66/) [Code](https://github.com/gao-xiao-bai/UniGDD)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECIR 2022</div><img src='images/GACS.png' height="100%" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Search Clarification Selection via Query-Intent-Clarification Graph Attention
+
+**Chang Gao**, Wai Lam
+
+[Paper](https://www.researchgate.net/publication/364165129_Search_Clarification_Selection_via_Query-Intent-Clarification_Graph_Attention)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2020</div><img src='images/Rotate3D.jpg' height="100%" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Rotate3D: Representing Relations as Rotations in Three-Dimensional Space for Knowledge Graph Embedding
+
+**Chang Gao**, Chengjie Sun, Lili Shan, Lei Lin, Mingjiang Wang
+
+
+
+[Paper](https://www.researchgate.net/publication/364165129_Search_Clarification_Selection_via_Query-Intent-Clarification_Graph_Attention)
 </div>
 </div>
 
