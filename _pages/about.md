@@ -81,7 +81,7 @@ Rotate3D: Representing Relations as Rotations in Three-Dimensional Space for Kno
 
 
 
-[Paper](https://www.researchgate.net/publication/364165129_Search_Clarification_Selection_via_Query-Intent-Clarification_Graph_Attention) [Code](https://github.com/gao-xiao-bai/Rotate3D)
+[Paper](https://dl.acm.org/doi/10.1145/3340531.3411889) [Code](https://github.com/gao-xiao-bai/Rotate3D)
 </div>
 </div>
 
