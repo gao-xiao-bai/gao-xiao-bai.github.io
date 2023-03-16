@@ -19,7 +19,7 @@ redirect_from:
 
 I am a third-year PhD at [CUHK text mining group](https://www1.se.cuhk.edu.hk/~textmine/), supervised by Prof. Lam Wai. Prior to this, I obtained my master degree at Harbin Institute of Technology.
 
-My research interest includes natural language processing and information retrieval, especially language models, semantic parsing, and covnersational systems. 
+My research interest includes natural language processing and information retrieval, especially language models, semantic parsing, and conversational systems. 
 
 
 <!-- # 🔥 News
