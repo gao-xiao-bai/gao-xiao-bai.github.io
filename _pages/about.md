@@ -28,6 +28,17 @@ My research interest includes natural language processing and information retrie
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/E2H.png' height="100%" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Easy-to-Hard Learning for Information Extraction
+
+**Chang Gao**, Wenxuan Zhang, Wai Lam, Lidong Bing
+
+[Paper](https://arxiv.org/abs/2305.09193v1) [Code](https://github.com/DAMO-NLP-SG/IE-E2H)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2022</div><img src='images/TKK.png' height="100%" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
