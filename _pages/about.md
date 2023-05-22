@@ -35,7 +35,7 @@ Easy-to-Hard Learning for Information Extraction
 
 **Chang Gao**, Wenxuan Zhang, Wai Lam, Lidong Bing
 
-[Paper](https://arxiv.org/abs/2305.09193v1) [Code](https://github.com/DAMO-NLP-SG/IE-E2H)
+[Paper](https://arxiv.org/abs/2305.09193) [Code](https://github.com/DAMO-NLP-SG/IE-E2H)
 </div>
 </div>
 
