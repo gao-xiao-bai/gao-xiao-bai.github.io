@@ -19,7 +19,7 @@ redirect_from:
 
 I am a third-year PhD at [CUHK text mining group](https://www1.se.cuhk.edu.hk/~textmine/), supervised by Prof. Lam Wai. Prior to this, I obtained my master degree at Harbin Institute of Technology.
 
-In the past, my research primarily revolved around enhancing the generalization capabilities and robustness of natural language processing (NLP) models. This was achieved through the optimization of model architecture, learning algorithms, and data representation. Currently, my interests have shifted towards Large Language Model (LLM) Alignment, specifically focusing on instruction tuning and AI safety.
+In the past, my research primarily revolved around enhancing the generalization capabilities and robustness of natural language processing (NLP) models. This was achieved through the optimization of model architecture, learning algorithms, and data representation. Currently, my interests have shifted towards large language model (LLM) alignment, specifically focusing on instruction tuning and AI safety.
 
 
 <!-- # 🔥 News
