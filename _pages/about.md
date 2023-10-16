@@ -19,16 +19,41 @@ redirect_from:
 
 I am a third-year PhD at [CUHK text mining group](https://www1.se.cuhk.edu.hk/~textmine/), supervised by Prof. Lam Wai. Prior to this, I obtained my master degree at Harbin Institute of Technology.
 
-My research interest includes natural language processing and information retrieval, especially language models, semantic parsing, and conversational systems. 
+In the past, my research primarily revolved around enhancing the generalization capabilities and robustness of natural language processing (NLP) models. This was achieved through the optimization of model architecture, learning algorithms, and data representation. Currently, my interests have shifted towards Large Language Model (LLM) Alignment, specifically focusing on instruction tuning and AI safety.
 
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications 
+# 📝 Preprints 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/E2H.png' height="100%" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/JsonTuning.jpg' height="100%" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+JsonTuning: Towards Generalizable, Robust, and Controllable Instruction Tuning
+
+**Chang Gao**, Wenxuan Zhang, Guizhen Chen, Wai Lam
+
+[Paper](https://arxiv.org/abs/2310.02953) [Code](https://github.com/gao-xiao-bai/jsontuning)
+</div>
+</div>
+
+# 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/m3exam.jpg' height="100%" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+M3Exam: A Multilingual, Multimodal, Multilevel Benchmark for Examining Large Language Models
+
+Wenxuan Zhang, Sharifah Mahani Aljunied, **Chang Gao**, Yew Ken Chia, Lidong Bing
+
+[Paper](https://arxiv.org/abs/2306.05179) [Code](https://github.com/DAMO-NLP-SG/M3Exam)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023 Findings</div><img src='images/E2H.png' height="100%" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Easy-to-Hard Learning for Information Extraction
@@ -39,7 +64,7 @@ Easy-to-Hard Learning for Information Extraction
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2022</div><img src='images/TKK.png' height="100%" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2022 Findings</div><img src='images/TKK.png' height="100%" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Towards Generalizable and Robust Text-to-SQL Parsing
@@ -110,7 +135,8 @@ Rotate3D: Representing Relations as Rotations in Three-Dimensional Space for Kno
 - *2017.11* National Scholarship
 - *2016.11* National Scholarship
 
-
+<!-- # 💻 Experience
+- *2019.05 - 2020.02*,  -->
 
 
 <!-- # 💬 Invited Talks
