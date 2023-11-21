@@ -28,6 +28,18 @@ In the past, my research primarily revolved around enhancing the generalization 
 
 # 📝 Preprints 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/StrategyLLM.jpg' height="100%" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+StrategyLLM: Large Language Models as Strategy Generators, Executors, Optimizers, and Evaluators for Problem Solving
+
+**Chang Gao**, Haiyun Jiang, Deng Cai, Shuming Shi, Wai Lam
+
+[Paper](https://arxiv.org/abs/2311.08803) 
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/JsonTuning.jpg' height="100%" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
