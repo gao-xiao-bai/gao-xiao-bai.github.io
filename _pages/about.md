@@ -33,7 +33,7 @@ In the past, my research primarily revolved around enhancing the generalization 
 
 Exploring Safety Generalization Challenges of Large Language Models via Code
 
-Qibing Ren^{\*}, **Chang Gao^{\*}**, Jing Shao, Junchi Yan, Xin Tan, Wai Lam, Lizhuang Ma
+Qibing Ren\*, **Chang Gao**\*, Jing Shao, Junchi Yan, Xin Tan, Wai Lam, Lizhuang Ma
 
 [Paper](https://arxiv.org/abs/2403.07865)
 </div>
