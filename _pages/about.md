@@ -28,17 +28,6 @@ In the past, my research primarily revolved around enhancing the generalization 
 
 # 📝 Preprints 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/CodeAttack.jpg' height="100%" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Exploring Safety Generalization Challenges of Large Language Models via Code
-
-Qibing Ren\*, **Chang Gao**\*, Jing Shao, Junchi Yan, Xin Tan, Wai Lam, Lizhuang Ma
-
-[Paper](https://arxiv.org/abs/2403.07865)
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/StrategyLLM.jpg' height="100%" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -64,6 +53,17 @@ JsonTuning: Towards Generalizable, Robust, and Controllable Instruction Tuning
 </div>
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='images/CodeAttack.jpg' height="100%" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Exploring Safety Generalization Challenges of Large Language Models via Code
+
+Qibing Ren\*, **Chang Gao**\*, Jing Shao, Junchi Yan, Xin Tan, Wai Lam, Lizhuang Ma
+
+[Paper](https://arxiv.org/abs/2403.07865)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/m3exam.jpg' height="100%" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
