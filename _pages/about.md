@@ -61,7 +61,7 @@ Exploring Safety Generalization Challenges of Large Language Models via Code
 
 Qibing Ren\*, **Chang Gao**\*, Jing Shao, Junchi Yan, Xin Tan, Wai Lam, Lizhuang Ma
 
-[Paper](https://arxiv.org/abs/2403.07865)
+[Paper](https://arxiv.org/abs/2403.07865) [Code](https://github.com/renqibing/CodeAttack)
 </div>
 </div>
 
