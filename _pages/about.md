@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth-year PhD student at [CUHK text mining group](https://www1.se.cuhk.edu.hk/~textmine/), supervised by Prof. Lam Wai. Prior to this, I obtained my master degree at Harbin Institute of Technology.
+I am a final-year PhD student at [CUHK text mining group](https://www1.se.cuhk.edu.hk/~textmine/), supervised by Prof. Lam Wai. Prior to this, I obtained my master degree at Harbin Institute of Technology.
 
 In the past, my research primarily revolved around enhancing the generalization capabilities and robustness of natural language processing (NLP) models. This was achieved through the optimization of model architecture, learning algorithms, and data representation. Currently, my interests have shifted towards large language model (LLM) reasoning and alignment.
 
@@ -27,18 +27,6 @@ In the past, my research primarily revolved around enhancing the generalization 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Preprints 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/StrategyLLM.jpg' height="100%" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-StrategyLLM: Large Language Models as Strategy Generators, Executors, Optimizers, and Evaluators for Problem Solving
-
-**Chang Gao**, Haiyun Jiang, Deng Cai, Shuming Shi, Wai Lam
-
-[Paper](https://arxiv.org/abs/2311.08803) 
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/JsonTuning.jpg' height="100%" width="100%"></div></div>
@@ -53,6 +41,17 @@ JsonTuning: Towards Generalizable, Robust, and Controllable Instruction Tuning
 </div>
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/StrategyLLM.jpg' height="100%" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+StrategyLLM: Large Language Models as Strategy Generators, Executors, Optimizers, and Evaluators for Problem Solving
+
+**Chang Gao**, Haiyun Jiang, Deng Cai, Shuming Shi, Wai Lam
+
+[Paper](https://arxiv.org/abs/2311.08803) 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='images/CodeAttack.jpg' height="100%" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
