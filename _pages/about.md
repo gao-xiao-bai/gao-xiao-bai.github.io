@@ -36,7 +36,7 @@ JsonTuning: Towards Generalizable, Robust, and Controllable Instruction Tuning
 
 **Chang Gao**, Wenxuan Zhang, Guizhen Chen, Wai Lam
 
-[Paper](https://arxiv.org/abs/2310.02953) [Code](https://github.com/gao-xiao-bai/jsontuning)
+[Paper](https://arxiv.org/abs/2310.02953) [Code](https://github.com/gao-xiao-bai/StrategyLLM)
 </div>
 </div>
 
@@ -49,7 +49,7 @@ StrategyLLM: Large Language Models as Strategy Generators, Executors, Optimizers
 
 **Chang Gao**, Haiyun Jiang, Deng Cai, Shuming Shi, Wai Lam
 
-[Paper](https://arxiv.org/abs/2311.08803) 
+[Paper](https://arxiv.org/abs/2311.08803) [Code](https://github.com/renqibing/CodeAttack)
 </div>
 </div>
 
