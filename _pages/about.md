@@ -56,7 +56,7 @@ StrategyLLM: Large Language Models as Strategy Generators, Executors, Optimizers
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='images/CodeAttack.jpg' height="100%" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Exploring Safety Generalization Challenges of Large Language Models via Code
+CodeAttack: Revealing Safety Generalization Challenges of Large Language Models via Code Completion
 
 Qibing Ren\*, **Chang Gao**\*, Jing Shao, Junchi Yan, Xin Tan, Wai Lam, Lizhuang Ma
 
@@ -147,7 +147,7 @@ Rotate3D: Representing Relations as Rotations in Three-Dimensional Space for Kno
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 📖 Educations
-- *2020.08 - 2024.08 (now)*, PhD, The Chinese University of Hong Kong, Hong Kong, China
+- *2020.08 - 2025.03 (now)*, PhD, The Chinese University of Hong Kong, Hong Kong, China
 - *2018.09 - 2020.06*, Master, Harbin Institute of Technology, Harbin, China
 - *2014.09 - 2018.06*, Undergraduate, Harbin Institute of Technology, Weihai, China
 
