@@ -37,6 +37,7 @@ Chengxing Xie\*, Bowen Li\*, **Chang Gao**\*, He Du, Wai Lam, Difan Zou, Kai Che
 
 [Paper](https://arxiv.org/abs/2501.05040) [Code](https://github.com/InternLM/SWE-Fixer)
 </div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/JsonTuning.jpg' height="100%" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
