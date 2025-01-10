@@ -28,6 +28,15 @@ In the past, my research primarily revolved around enhancing the generalization 
 
 # 📝 Preprints 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/SWE-Fixer.png' height="100%" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution
+
+Chengxing Xie\*, Bowen Li\*, **Chang Gao**\*, He Du, Wai Lam, Difan Zou, Kai Chen
+
+[Paper](https://arxiv.org/abs/2501.05040) [Code](https://github.com/InternLM/SWE-Fixer)
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/JsonTuning.jpg' height="100%" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
